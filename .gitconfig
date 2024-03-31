@@ -1,0 +1,12 @@
+[alias]
+  c = commit
+  s = status
+  b = branch
+  p = push
+  l = log
+  co = checkout
+[user]
+	email = ??
+	name = djole
+[push]
+  default = current
